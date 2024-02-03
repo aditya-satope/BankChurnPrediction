@@ -8,7 +8,7 @@ Hello everyone! 👋 Step into my Kaggle project where I excelled in the Custome
 
 The competition presented a dataset featuring various customer attributes such as ID, CustomerId, Surname, CreditScore, Geography, Gender, Age, Tenure, Balance, and NumOfProd. Our mission was to predict whether a customer would decide to part ways with our services.
 
-## Insights and What I learned
+## What I learned?
 
 Now, let's shift gears from the amusing tone to a more determined discussion about the insights gained during this project:
 
