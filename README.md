@@ -8,12 +8,14 @@ Hello everyone! 👋 Step into my Kaggle project where I excelled in the Custome
 
 The competition presented a dataset featuring various customer attributes such as ID, CustomerId, Surname, CreditScore, Geography, Gender, Age, Tenure, Balance, and NumOfProd. Our mission was to predict whether a customer would decide to part ways with our services.
 
+You can find the dataset [here](https://www.kaggle.com/competitions/playground-series-s4e1/).
+
 ## What I learned?
 
 Now, let's shift gears from the amusing tone to a more determined discussion about the insights gained during this project:
 
 1. **Binning Methods:**
-   Explored and implemented effective binning methods, specifically with age data. This technique involved categorizing ages into meaningful groups, proving valuable for refining model predictions. 🎩
+   Explored and implemented effective binning methods, specifically with age data. This technique involved categorizing ages into meaningful groups, proving valuable for refining model predictions.
 
 2. **Addressing Skewed Datasets:**
    Tackled the challenge of skewed data with a strategic approach. Employed techniques such as SMOTE, Resampling, and Stratified K-Fold to harmonize the data distribution and enhance model performance.
